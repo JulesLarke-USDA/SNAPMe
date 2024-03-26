@@ -1,7 +1,7 @@
 # SNAPMe
 ### <ins>S</ins>urveying <ins>N</ins>utrient <ins>A</ins>ssessment with <ins>P</ins>hotographs of <ins>Me</ins>als
 
-This repository contains the analytic code and data used for reproducing results and visualizations from the submitted manuscript [citation to follow]
+This repository contains the analytic code and data used for reproducing results and visualizations from the manuscript: https://www.mdpi.com/2072-6643/15/23/4972
 
 #### Use and Requirements
 
